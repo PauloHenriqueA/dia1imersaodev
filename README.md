@@ -1,4 +1,4 @@
-# dia1imersaodev
+# Dia 1 da Imersao Dev 4
 Dia 1 da Imersão Dev 4
 
 Neste programa, focamos nas primeiras ferramentas principais de qualquer linguagem de programação: variáveis, operadores, arredondamento e console.
